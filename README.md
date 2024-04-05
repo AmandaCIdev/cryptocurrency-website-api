@@ -1,3 +1,2 @@
 Image Credit: bitbns.com
-Buy & Sell Cryptocurrency, 
-visit: https://ref.bitbns.com/73135
+API: https://www.coingecko.com/api/documentation
